@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "Anurag Dash"
-  avatar           : "CV.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/CV.jfif" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning to code!"
   location         : "Bhubaneshwar,India"
   email            : "anuragjeypore1234@gmail.com"
