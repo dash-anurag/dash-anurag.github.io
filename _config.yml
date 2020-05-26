@@ -107,29 +107,29 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/@nurag_Dash"
+       #url: "https://twitter.com/@nurag_Dash"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Dreadbane"
+       #url: "https://github.com/Dreadbane"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/_dash_anurag"
+       #url: "https://instagram.com/_dash_anurag"
 
 # Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-       url: "https://twitter.com/@nurag_Dash"
+       #url: "https://twitter.com/@nurag_Dash"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/Dreadbane"
+       #url: "https://github.com/Dreadbane"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -138,7 +138,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-       url: "https://instagram.com/_dash_anurag"
+       #url: "https://instagram.com/_dash_anurag"
 
 
 # Reading Files
