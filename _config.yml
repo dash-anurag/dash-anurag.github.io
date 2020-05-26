@@ -97,9 +97,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Learning to code!"
   location         : "Bhubaneshwar,India"
-  email            : 
+  email            : "anuragjeypore1234@gmail.com"
   links:
-    - label: "Email"
+     label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:anuragjeypore1234@gmail.com"
     - label: "Website"
